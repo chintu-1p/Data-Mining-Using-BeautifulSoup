@@ -1,6 +1,6 @@
 # Data-Mining-Using-BeautifulSoup
 
-1. Tools/Libraries Used
+1. Tools/Libraries Used:
 	i) Python: The main programming language used for this script.
 	ii) Requests: For sending HTTP requests to fetch webpage content.
 		Installation: pip install requests
